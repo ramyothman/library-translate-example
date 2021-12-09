@@ -1,0 +1,14 @@
+{
+  "name": "cool-library",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0"
+  },
+  "dependencies": {
+    "@ngx-translate/core": "^14.0.0",
+    "@ngx-translate/http-loader": "^7.0.0",
+    "ngx-translate-multi-http-loader": "^3.0.0",
+    "tslib": "^2.3.0"
+  }
+}
